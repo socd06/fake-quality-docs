@@ -1,0 +1,25 @@
+Abbreviations and Acronyms
+
+The following list provides the abbreviations and acronyms used throughout this Quality Manual for easy reference and understanding:
+
+QMS - Quality Management System
+QA - Quality Assurance
+QC - Quality Control
+SOP - Standard Operating Procedure
+KPI - Key Performance Indicator
+R&D - Research and Development
+NCR - Nonconformance Report
+CAPA - Corrective and Preventive Action
+CAR - Corrective Action Request
+PAR - Preventive Action Request
+FM - Failure Mode
+OOS - Out of Specification
+OOT - Out of Trend
+IQ - Installation Qualification
+OQ - Operational Qualification
+PQ - Performance Qualification
+MSA - Measurement System Analysis
+SOP - Standard Operating Procedure
+FDA - Food and Drug Administration
+ISO - International Organization for Standardization
+Please note that this is not an exhaustive list, and additional abbreviations and acronyms may be used within the context of specific procedures or processes described in the Quality Manual.

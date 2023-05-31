@@ -1,0 +1,48 @@
+Calibration Manual
+
+Introduction:
+This calibration manual provides guidelines for the calibration of various instruments used in our manufacturing company. Calibration is crucial to ensure accurate and reliable measurements, which is vital for maintaining quality standards. The intervals mentioned below indicate the recommended frequency for calibration, but they may vary depending on factors such as instrument usage, environmental conditions, and regulatory requirements. It is essential to follow the manufacturer's instructions and any applicable industry standards while performing calibration procedures.
+
+Digital Multimeter:
+Calibration Interval: Every 12 months
+Description: Calibrate digital multimeters used for voltage, current, resistance, and other electrical measurements.
+
+Pressure Gauge:
+Calibration Interval: Every 6 months
+Description: Calibrate pressure gauges to ensure accurate measurement of fluid or gas pressures.
+
+Thermometer:
+Calibration Interval: Every 12 months
+Description: Calibrate thermometers, both digital and analog, used for temperature measurements in various applications.
+
+Tachometer:
+Calibration Interval: Every 12 months
+Description: Calibrate tachometers used for measuring rotational speeds or RPM (revolutions per minute) of machinery.
+
+Weighing Scale:
+Calibration Interval: Every 6 months
+Description: Calibrate weighing scales used for measuring the weight of materials or products accurately.
+
+pH Meter:
+Calibration Interval: Every 3 months
+Description: Calibrate pH meters used for measuring the acidity or alkalinity of liquid samples.
+
+Conductivity Meter:
+Calibration Interval: Every 6 months
+Description: Calibrate conductivity meters used for measuring the electrical conductivity of solutions.
+
+Humidity Meter:
+Calibration Interval: Every 12 months
+Description: Calibrate humidity meters used for measuring the relative humidity of air or gas.
+
+Sound Level Meter:
+Calibration Interval: Every 12 months
+Description: Calibrate sound level meters used for measuring the intensity or volume of sound.
+
+Lux Meter:
+Calibration Interval: Every 12 months
+Description: Calibrate lux meters used for measuring the intensity of light in lux or foot-candles.
+
+Note: The intervals mentioned above are general recommendations. Depending on specific requirements and industry standards, the calibration frequency for each instrument may vary. It is essential to refer to instrument manuals, manufacturer guidelines, and relevant industry regulations to determine the appropriate calibration intervals.
+
+Additionally, it is important to maintain proper documentation for calibration activities, including calibration certificates, calibration procedures, and calibration logs. Regularly reviewing and updating the calibration manual based on feedback, new instrument acquisitions, and industry updates will ensure ongoing adherence to quality assurance practices.
